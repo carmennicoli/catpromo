@@ -70,7 +70,7 @@
               "alt": "Mobirise",
               "link": "http://www.springfield.sch.id/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -356,7 +356,7 @@
               "alt": "Mobirise",
               "link": "http://www.springfield.sch.id/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
