@@ -14,10 +14,10 @@
   font-size: 18px;
 }
 #header1-9 P {
-  text-align: right;
+  text-align: left;
 }
 #header1-9 H1 {
-  text-align: right;
+  text-align: left;
 }
 #msg-box5-a .mbr-header__text {
   color: #ffffff;
@@ -45,10 +45,10 @@
 #msg-box3-e .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#contacts1-c P {
+#contacts2-i P {
   color: #ccc9c9;
 }
-#contacts1-c UL {
+#contacts2-i UL {
   color: #ccc9c9;
 }
 
