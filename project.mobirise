@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -93,7 +93,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
@@ -106,24 +106,16 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": 0.5
           },
           "title": "FOOD &amp; NUTRITION",
-          "text": "Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food-the importance of different nutrients, how to keep a balanced diet, and many more.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "text": "Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food -- the importance of different nutrients, how to keep a balanced diet, and many more.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LATEST RECIPE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-9",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H1": {
-              "text-align": "left"
-            }
-          }
+          "_anchor": "header1-j"
         },
         {
           "_styles": {
@@ -293,7 +285,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Taman Permata Buana<br>Jl. Pulau Tidung 018/RW 09<br>Kembangan Utara <br>Jakarta Barat, 11610<br><br>\n<strong>CONTACTS</strong><br>Email: pr@springfield.sch.id<br>Phone: (021) 5830 4383<br>Fax: (021) 5830 4286<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.springfield.sch.id</li><li>instagram.com/springfield.school</li><li><br></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.springfield.sch.id\" target=\"_blank\" class=\"text-gray\">www.springfield.sch.id</a></li><li><a href=\"http://instagram.com/springfield.school\" target=\"_blank\" class=\"text-gray\">instagram.com/springfield.school</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
