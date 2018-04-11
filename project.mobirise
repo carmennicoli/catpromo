@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 31,
+    "uniqCompNum": 39,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -34,13 +34,13 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -61,7 +61,7 @@
               "font-size": "18px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -190,6 +190,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -214,56 +217,73 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "MEET THE TEACHER",
+          "text": "<p>Mr. Febrian Ralahalu is an experienced, and knowledgeable culinary mentor who has been assisting our students in their culinary ventures for many years. He has much knowledge about food, including cooking skills, safety procedures in the kitchen and the importance of nutrients as he has worked in a professional kitchen before coming to Springfield to share his knowledge and skills with our students.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-b"
+          "_anchor": "content5-v"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
+            "bgColor": "#efefef",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MODERN STYLES",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "header": "WHAT OUR FANTASTIC STUDENTS SAY",
+          "items": [
+            {
+              "authorName": "HAGGI BRAYDEN&nbsp;",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"It's my favorite class!\"</i></b></p><p class=\"mbr-reviews__p\">Food and Nutrition taught me how to cook, the safety procedures in the kitchen, how to control my diet in order to be healthy, and many more!</p>"
+            },
+            {
+              "authorName": "CHADMUS CLEOSA D. C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"Because of this class, I'm able to cook at home now.\"</i></b></p><p class=\"mbr-reviews__p\">I wasn't able to cook before taking this class, and my family members couldn't cook as well, so normally we get takeouts. Now,  I am able to cook for the family.&nbsp;</p>"
+            },
+            {
+              "authorName": "JESSLINE A. CHOW",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"I have found my passion!\"</i></b></p><p class=\"mbr-reviews__p\">Food and Nutrition has made me truly realize what I enjoy doing. My skills have improved after taking this class. I owe it to this class and Mr. Febrian that I will be a great cook one day.</p>"
+            }
+          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-e"
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-12",
+          "testimonial": [
+            {
+              "authorName": "HAGGI BRAYDEN&nbsp;",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"It's my favorite class!\"</i></b></p><p class=\"mbr-reviews__p\">Food and Nutrition taught me how to cook, the safety procedures in the kitchen, how to control my diet in order to be healthy, and many more!</p>"
+            },
+            {
+              "authorName": "CHADMUS CLEOSA D. C.",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"Because of this class, I'm able to cook at home now.\"</i></b></p><p class=\"mbr-reviews__p\">I wasn't able to cook before taking this class, and my family members couldn't cook as well, so normally we get takeouts. Now,  I am able to cook for the family.&nbsp;</p>"
+            },
+            {
+              "authorName": "JESSLINE A. CHOW",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b><i>\"I have found my passion!\"</i></b></p><p class=\"mbr-reviews__p\">Food and Nutrition has made me truly realize what I enjoy doing. My skills have improved after taking this class. I owe it to this class and Mr. Febrian that I will be a great cook one day.</p>"
+            }
+          ]
         },
         {
           "_params": {
@@ -315,13 +335,13 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -342,7 +362,7 @@
               "font-size": "18px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -368,6 +388,74 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://www.springfield.sch.id/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">SPRINGFIELD&nbsp;</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-10-at-1.08.53-pm-1248x834.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-10-at-1.08.53-pm-1248x834-800x535.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "images/slide2.jpg",
+                "thumb": "images/slide2-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "thumb": "images/slide3-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide4.jpg",
+                "thumb": "images/slide4-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide5.jpg",
+                "thumb": "images/slide5-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide6.jpg",
+                "thumb": "images/slide6-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-10"
         }
       ]
     },
@@ -384,13 +472,13 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -411,7 +499,7 @@
               "font-size": "18px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -453,13 +541,13 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -480,7 +568,7 @@
               "font-size": "18px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-i\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,

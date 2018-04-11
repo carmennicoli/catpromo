@@ -22,21 +22,18 @@
 #msg-box5-a .mbr-article {
   color: #ffffff;
 }
-#content5-b .mbr-header .mbr-header__text {
+#content5-v .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
 }
-#content5-b .mbr-header .mbr-header__subtext {
+#content5-v .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-b .mbr-article {
+#content5-v .mbr-article {
   color: #fff;
 }
-#msg-box3-e .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-e .mbr-header .mbr-header__subtext {
+#content5-v .mbr-article P {
   text-align: center;
 }
 #contacts2-i P {
