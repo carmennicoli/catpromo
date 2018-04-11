@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 39,
+    "uniqCompNum": 45,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -388,74 +388,6 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://www.springfield.sch.id/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">SPRINGFIELD&nbsp;</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-10-at-1.08.53-pm-1248x834.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-10-at-1.08.53-pm-1248x834-800x535.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-10"
         }
       ]
     },
@@ -595,6 +527,75 @@
           "_anchor": "ext_menu-l"
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#eb6b56",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "KEMBANG GOYANG",
+          "text": "Kembang Goyang is a mixture of different type of flours and sweetening ingredients, like sugar and vanilla extract. Its flavour and texture is similar to cookies, dry, crunchy, and sweet.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-18"
+        },
+        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -613,15 +614,15 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chiffon-cake-5-680x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c2c2c",
@@ -634,8 +635,8 @@
             "overlayColor": "#2c2c2c",
             "overlayOpacity": "0.9"
           },
-          "title": "SWEET CORN CHIFFON CAKE",
-          "text": "<p><b>INGREDIENTS</b><br></p><p>- 6 egg yolks</p><p>- 140 gr flour (kunci biru)<br></p><p>- 1 tbsp corn flour<br></p><p>- ¾ tsp baking powder<br></p><p>- 100 gr canned sweet corn<br></p><p>- 50 ml fresh milk<br></p><p>- 1 tsp pandan extract<br></p><p>- 60 ml corn oil<br></p><p>- 50 gr cheddar cheese<br></p><p>- 7 egg whites<br></p><p>- 50 gr sugar<br></p><p>- ¾ tsp cream of tartar<br></p><p><br></p><p><b>DIRECTIONS</b><br></p><p>1. Process sweet corn and fresh milk in food processor until smooth.<br></p><p>2. Grate the cheese.<br></p><p>3. Beat egg yolks with a balloon whisk and mix in 50 gr sugar. Add the blended sweet corn and oil. Mix well.<br></p><p>4. Sift in flour, corn flour and baking powder. Mix well.<br></p><p>5. Add the cheese.<br></p><p>6. In another mixing bowl, beat egg whites and cream of tartar with electric mixer (speed no.1 only) until bubbly. Then gradually add the 50 gr sugar and keep beating until stiff peak formed.<br></p><p>7. Add the meringue into egg yolk mixture in 3 batches. Mix well after each addition.<br></p><p>8. Pour the cake batter into the cake mold, top with grated cheese and bake in 180 C preheated oven for 50 minutes.</p>",
+          "title": "",
+          "text": "<p><b>INGREDIENTS</b></p><p>3 eggs</p><p>100 gr sugar</p><p>200 gr rice flour</p><p>100 gr sago/ tapioca flour</p><p>1/2 tsp salt</p><p>½ tsp vanilla extract</p><p>125 ml instant coconut milk</p><p>50 gr white sesame seed</p><p>1 liter cooking oil</p><p><br></p><p><b>DIRECTIONS</b></p><p>1. Using a balloon whisk, whisk the eggs and sugar until just combined.</p><p>2. Mix the coconut milk with 125 ml water.</p><p>3. Add the rice flour and sago flour alternately with coconut milk into whisked eggs. Mix well.</p><p>4. Add the salt and sesame seed. Mix well.</p><p>5. Heat cooking oil in frying pan then dip the kembang goyang mold into cooking oil until hot enough then dip the hot mold into the kembang goyang batter and return the mold into cooking oil. Shake the mold to release the batter.</p><p>6. Deep fry the kembang goyang until golden brown over medium heat.</p><p><b><br></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
