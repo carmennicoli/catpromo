@@ -89,6 +89,12 @@
 #msg-box4-1e .mbr-article {
   color: #ffffff;
 }
+#contacts2-m P {
+  color: #ccc9c9;
+}
+#contacts2-m UL {
+  color: #ccc9c9;
+}
 
 #ext_menu-l .mbr-brand__name {
   font-size: 16px;
@@ -126,6 +132,26 @@
 }
 #content5-o .mbr-article P {
   text-align: center;
+}
+#contacts2-m P {
+  color: #ccc9c9;
+}
+#contacts2-m UL {
+  color: #ccc9c9;
+}
+
+#ext_menu-1f .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1f .mbr-brand__name a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
 }
 #contacts2-m P {
   color: #ccc9c9;
