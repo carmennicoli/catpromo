@@ -8,7 +8,9 @@
       "styling": {},
       "additionalSetColors": [
         "#2c2c2c",
-        "#ccc9c9"
+        "#ccc9c9",
+        "#292625",
+        "#1c181d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -674,8 +676,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#1c181d",
+            "overlayOpacity": "1"
           },
           "media": {
             "image": {
