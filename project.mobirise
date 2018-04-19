@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -665,7 +665,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#eb6b56",
@@ -674,7 +674,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.8"
           },
           "media": {
@@ -759,8 +759,8 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#2c2c2c",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "title": "",
           "text": "<p><b>INGREDIENTS</b></p><p>3 eggs</p><p>100 gr sugar</p><p>200 gr rice flour</p><p>100 gr sago/ tapioca flour</p><p>1/2 tsp salt</p><p>½ tsp vanilla extract</p><p>125 ml instant coconut milk</p><p>50 gr white sesame seed</p><p>1 liter cooking oil</p><p><br></p><p><b>DIRECTIONS</b></p><p>1. Using a balloon whisk, whisk the eggs and sugar until just combined.</p><p>2. Mix the coconut milk with 125 ml water.</p><p>3. Add the rice flour and sago flour alternately with coconut milk into whisked eggs. Mix well.</p><p>4. Add the salt and sesame seed. Mix well.</p><p>5. Heat cooking oil in frying pan then dip the kembang goyang mold into cooking oil until hot enough then dip the hot mold into the kembang goyang batter and return the mold into cooking oil. Shake the mold to release the batter.</p><p>6. Deep fry the kembang goyang until golden brown over medium heat.</p><p><b><br></b></p>",
