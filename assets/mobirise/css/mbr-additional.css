@@ -4,10 +4,10 @@
   font-size: 16px;
 }
 #ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #292625;
 }
 #ext_menu-7 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #ext_menu-7 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -47,10 +47,10 @@
   font-size: 16px;
 }
 #ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #292625;
 }
 #ext_menu-7 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #ext_menu-7 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -144,14 +144,25 @@
   font-size: 16px;
 }
 #ext_menu-1f.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #292625;
 }
 #ext_menu-1f .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #c1c1c1;
 }
 #ext_menu-1f .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
+}
+#content5-1i .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1i .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1i .mbr-article {
+  color: #fff;
 }
 #contacts2-m P {
   color: #ccc9c9;
