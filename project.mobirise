@@ -191,7 +191,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "29",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -212,7 +212,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-1.20.35-am-950x698.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
