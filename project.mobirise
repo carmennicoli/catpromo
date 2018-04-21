@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -517,7 +517,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-20-at-6.09.13-pm-1400x888.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -618,11 +621,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#292625"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             ".mbr-brand__name a": {
               "font-family": "'Roboto', sans-serif",
@@ -815,7 +818,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
-        "title": "Equipment and Facilities",
+        "title": "Pictures",
         "order": 1
       },
       "components": [
