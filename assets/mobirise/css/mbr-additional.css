@@ -14,7 +14,7 @@
   font-size: 18px;
 }
 #msg-box5-a .mbr-header__text {
-  color: #ffffff;
+  color: #2c2c2c;
 }
 #msg-box5-a .mbr-header__subtext {
   color: #ffffff;
@@ -22,19 +22,17 @@
 #msg-box5-a .mbr-article {
   color: #ffffff;
 }
-#content5-v .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#msg-box5-a .mbr-article P {
+  color: #2c2c2c;
 }
-#content5-v .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#msg-box4-1k .mbr-header__text {
+  color: #ffffff;
 }
-#content5-v .mbr-article {
-  color: #fff;
+#msg-box4-1k .mbr-header__subtext {
+  color: #ffffff;
 }
-#content5-v .mbr-article P {
-  text-align: center;
+#msg-box4-1k .mbr-article {
+  color: #ffffff;
 }
 #contacts2-i P {
   color: #ccc9c9;
