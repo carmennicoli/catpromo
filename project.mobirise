@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -449,7 +449,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "title": "WHY CHOOSE F&amp;N?",
           "text": "Some people might say that Food and Nutrition class is not useful because you can learn to cook anywhere, anytime. However, Food and Nutrition is much more than that. You are able to nurture your cooking skills and express your creativity in the form of food. Students will be able to gain confidence and try new things without the fear of committing an error or failing. It prepares you to take your first step to adulthood and enhances your ability to be independent. This class is great for everyone, whether you are already skilled or merely a beginner.",
@@ -496,7 +496,7 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#1c181d",
             "overlayOpacity": "0.6"
           },
           "title": "WHAT STUDENTS LEARN",
@@ -692,7 +692,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#eb6b56",
@@ -702,7 +702,7 @@
             },
             "overlay": true,
             "overlayColor": "#1c181d",
-            "overlayOpacity": "1"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
