@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16,7 +16,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 57,
+    "uniqCompNum": 61,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -139,7 +139,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "45",
             "paddingTop": 3,
@@ -173,10 +173,10 @@
               "loop": false
             }
           },
-          "title": "VIDEO EMBED",
+          "title": "F&amp;N CLASS",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PICTURES</a>",
           "_tags": [
             "Theme"
           ],
@@ -497,7 +497,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#1c181d",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "title": "WHAT STUDENTS LEARN",
           "text": "In Food and Nutrition class, students acquire a lot of different skills, ranging from how to properly handle a knife to the importance of why different nutrients are needed for a balanced diet and a healthy lifestyle. Not only that, students are requiring an essential life skill needed to advance into adulthood and achieve independence.<div><br></div>",
@@ -726,7 +726,7 @@
               "size": 0
             }
           },
-          "title": "KEMBANG GOYANG",
+          "title": "LATEST RECIPE:<br>KEMBANG GOYANG",
           "text": "Kembang Goyang is a mixture of different type of flours and sweetening ingredients, like sugar and vanilla extract. Its flavour and texture is similar to cookies, dry, crunchy, and sweet.&nbsp;",
           "_tags": [
             "Theme"
@@ -958,6 +958,28 @@
             "showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.24-pm-2000x1180.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-8.57.37-pm-1848x1068.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-20-at-6.08.48-pm-1708x1134.png",
                 "active": false,
                 "showButtons": false,
@@ -969,19 +991,19 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-20-at-6.09.13-pm-1658x1052.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.00.22-pm-1458x862.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "images/slide3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-8.58.02-pm-1946x1168.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -998,6 +1020,53 @@
           ],
           "_name": "slider2",
           "_anchor": "slider2-1j"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.28-pm-2000x1342.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.28-pm-2000x1342-800x600.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.14.55-pm-1012x702.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.14.55-pm-1012x702-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1o"
         },
         {
           "_params": {
