@@ -99,7 +99,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-22-at-9.42.22-pm-1280x715.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -108,17 +108,26 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#1c181d",
             "overlayOpacity": "0.5"
           },
-          "title": "FOOD &amp; NUTRITION",
-          "text": "Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food -- the importance of different nutrients, how to keep a balanced diet, and many more.",
+          "title": "FOOD &amp; NUTRITION<br>",
+          "text": "Carmen Chen 10B, Elaine Wongso 10A, Aurellia Jakub 10B, Briegitta Sandhika 10B, Jansen Wongso 10A, Cherish Aurely 10B<br><br>Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food -- the importance of different nutrients, how to keep a balanced diet, and many more.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LATEST RECIPE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-j"
+          "_anchor": "header1-j",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_styles": {
@@ -688,7 +697,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "60",
+            "imageSize": "55",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -959,7 +968,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.24-pm-2000x1180.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1003,7 +1012,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-8.58.02-pm-1946x1168.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1032,22 +1041,22 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-1.13.44-pm-1118x822-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-22-at-9.42.22-pm-1280x715.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-22-at-9.42.22-pm-1280x715-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.28-pm-2000x1342.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.28-pm-2000x1342-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-11-at-7.11.49-pm-1146x723-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
