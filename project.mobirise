@@ -112,7 +112,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "FOOD &amp; NUTRITION<br>",
-          "text": "Carmen Chen 10B, Elaine Wongso 10A, Aurellia Jakub 10B, Briegitta Sandhika 10B, Jansen Wongso 10A, Cherish Aurely 10B<br><br>Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food -- the importance of different nutrients, how to keep a balanced diet, and many more.",
+          "text": "Carmen Chen 10B, Elaine Wongso 10A, Aurellia Jakub 10B, Briegitta Sandhika 10B, Cherish Aurely 10B,&nbsp;Jansen Wongso 10A<br><br>Food and Nutrition is an interactive, informative class where students hone various cooking skills in the kitchen. Not only do students get a chance to experiment in the kitchen, they also learn about everything there is to know about food -- the importance of different nutrients, how to keep a balanced diet, and many more.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LATEST RECIPE</a>",
           "_tags": [
             "Theme"
