@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -967,7 +967,7 @@
             "showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.24-pm-2000x1180.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-9.03.22-pm-2000x1250.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
