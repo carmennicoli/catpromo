@@ -319,7 +319,7 @@
           ]
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page1.html#content5-19\" data-toolbar=\"-mbrBtnMove\">WHY CHOOSE F&amp;N?</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#msg-box4-1e\" data-toolbar=\"-mbrBtnMove\">WHAT YOU'LL LEARN</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page1.html#content5-19\" data-toolbar=\"-mbrBtnMove\">WHY CHOOSE F&amp;N?</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#content5-1a\" data-toolbar=\"-mbrBtnMove\">WHAT YOU'LL LEARN</a>",
           "_tags": [
             "Theme"
           ],
@@ -327,7 +327,7 @@
           "_anchor": "buttons1-1r"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">EQUIPMENT &amp; FACILITIES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">MORE PICTURES</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#msg-box4-1e\" data-toolbar=\"-mbrBtnMove\">EQUIPMENT &amp; FACILITIES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">MORE PICTURES &amp; STUDENT OUTCOMES</a>",
           "_tags": [
             "Theme"
           ],
