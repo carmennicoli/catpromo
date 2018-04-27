@@ -16,7 +16,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -132,7 +132,7 @@
         {
           "_styles": {
             ".mbr-header__text": {
-              "color": "#2c2c2c"
+              "color": "#292625"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -141,7 +141,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#2c2c2c"
+              "color": "#403c3a"
             }
           },
           "_params": {
@@ -150,11 +150,11 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "45",
+            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -175,7 +175,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/watch?v=Y0JxbHXuArc&feature=youtu.be",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -184,13 +184,13 @@
           },
           "title": "F&amp;N CLASS",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PICTURES</a>",
+          "text": "<p>In this video, the students prepared a delicious meal. Following the recipe given to them by their teacher, they were able to create yet another tasty dish. Here, they learned how to crack an egg and fry properly — but most of all, they learned about how to work together in a team to produce a meal they’d enjoy together.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PICTURES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-a"
+          "_anchor": "msg-box5-1p"
         },
         {
           "_inherit": "msg-box5",
