@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-04_1246",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -547,7 +547,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-20-at-6.09.13-pm-1400x888.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-22-at-8.57.03-pm-1400x770.png",
               "link": "",
               "alt": "",
               "title": ""
